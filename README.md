@@ -1,7 +1,11 @@
-<p align="center">
+
+<p align="center" >
+
   <img height="400" alt="Jett" src="https://github.com/karevsucksatcoding/karevsucksatcoding/blob/main/tumblr_99db3491462f6c488d0d0cfbcd51e40e_01cfccef_1280.gif" />
 </p>
-<h1 align="center"><b>Hi , I'm Erol (gamer name: Karev) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h1 align="center"; display: inline-block;><b>Hi , I'm Erol (gamer name: Karev) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+National+University;Information+Technology+Student;VSCode+Newbie;Love+to+learn+new+stuffs..<3"></a>
