@@ -1,3 +1,4 @@
+<picture><img src = "https://storage.ko-fi.com/cdn/useruploads/display/5efba11b-57be-4763-baea-95f431d0fe66_output-onlinegiftools8.gif" width = 50px></picture>
 <h1 align="center"><b>Hi , I'm Erol (gamer name: Karev) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
