@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+National+University;Information+Technology+Student;VSCode+Newbie;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Student+at+National+University;Programing+Student;Visual+Studio+Code+Practitioner;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -23,7 +23,7 @@
 
 <br>
 
-- Plays Valorant, CS:GO, Tetris, and other games
+- Plays Valorant, CS:GO, Tetris, and other games ( Ascendant 2 peak )
 - Loves to cram homeworks and activities. Adrenaline Rush spikes in 10 minutes before the deadline
 - 6'0" / Single (I can put whatever I want ^-^)
 - Watches A LOT of Netflix films and docuseries
