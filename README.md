@@ -23,9 +23,9 @@
 
 <br>
 
-- Plays Valorant, CS:GO, Tetris, and other games ( Ascendant 2 peak )
+- Plays Valorant, CS:GO, Tetris, and other games
 - Loves to cram homeworks and activities. Adrenaline Rush spikes in 10 minutes before the deadline
-- 6'0" / Single (I can put whatever I want ^-^)
+- 6'0" / Taken
 - Watches A LOT of Netflix films and docuseries
 
 <br><br>
